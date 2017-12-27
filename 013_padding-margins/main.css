@@ -1,0 +1,28 @@
+div{
+    /*margin-left: 10%;*/
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius:10px;
+    display: inline-block;
+    margin: 20px;
+}
+
+img{
+    border: 10px groove darkblue;
+    border-radius:100%;
+    padding: 10px;
+    margin: 30px;
+}
+
+.onedog{
+    border: 10px dotted black;
+}
+
+.twodog{
+    border: 10px dashed crimson;
+}
+
+.threedog{
+    border: 10px ridge lime;
+}
